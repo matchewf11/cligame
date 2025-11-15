@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 tokio = { version = "1.48.0", features = ["full"] }
 axum = "0.8.6"
+sqlx = "0.8.6"
